@@ -1,8 +1,7 @@
 {
-  "showDialog": true,
-  "expires": "11-12-2025",
-  "title": "DWONLOAD NEW VERSION",
+  "showUpdate": true,
+  "title": " DWONLOAD NEW VERSION",
   "message": "THIS VERSION PATCH -- DWONLOAD NEW VERSION.",
-  "UpdateButtonText": "DOWNLOAD",
-  "UpdateButtonUrl": "https://t.me/+CGDC5LqQgVVhNThl"
+  "buttonText": "UPDATE NOW",
+  "updateUrl": "https://t.me/+k34wpf7AC884YTZl",
 }
